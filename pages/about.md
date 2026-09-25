@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="website_logo.png" width="75" alt="LGBTQ+ People's Archive logo" %}
+{% include feature/image.html object id="website_logo.png" width="75" alt="LGBTQ+ People's Archive logo" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
